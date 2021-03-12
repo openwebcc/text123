@@ -17,3 +17,7 @@
 
 [Link zu Einheit1.py](https://github.com/Tabernig/skripts/blob/master/VU_Automatisierung/Einheit1.py)
 
+Quellcode highlighting:
+```python
+print("Hello World!")
+```
